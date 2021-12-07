@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1 style="background-color:powderblue;">RFA Capital Inc.</h1>
+<h4>Project Updates</h4>
+<h3 style="background-color:lightgrey;">Projects</h3>
+<h4>St. Jerome</h4>
+<label for="fname">Closing Date</label><br>
+<input type="text" id="closing date" name="CD"><br>
+<label for="fname">Current Items Outstanding</label><br>
+<input type="text" id="current items outstanding" name="CIO"><br>
+</body>
+</html>
